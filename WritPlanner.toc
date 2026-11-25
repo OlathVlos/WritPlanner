@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: Writ Planner
+## Notes: Plan your daily Craftsman's Writ run: cheapest rep for your budget, auto-ticking checklist, live prices and waypoints.
+## Author: Bill
+## Version: 1.0.0
+## IconTexture: Interface\Icons\INV_Scroll_03
+## SavedVariables: WritPlannerDB
+## SavedVariablesPerCharacter: WritPlannerCharDB
+## OptionalDeps: Auctionator, TradeSkillMaster, GoldScout_Prices, TomTom
+## AddonCompartmentFunc: WritPlanner_OnAddonCompartmentClick
+## X-License: GPL-3.0-or-later
+
+Data.lua
+Core.lua
+Scan.lua
+UI.lua

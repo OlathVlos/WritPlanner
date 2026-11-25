@@ -1,0 +1,5 @@
+package-as: WritPlanner
+ignore:
+  - tools
+  - CHANGELOG.md
+  - .gitignore
