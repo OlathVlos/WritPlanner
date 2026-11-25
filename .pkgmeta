@@ -1,5 +1,6 @@
 package-as: WritPlanner
 ignore:
+  - CLAUDE.md
   - tools
   - CHANGELOG.md
   - .gitignore

@@ -9,6 +9,7 @@
 ## OptionalDeps: Auctionator, TradeSkillMaster, GoldScout_Prices, TomTom
 ## AddonCompartmentFunc: WritPlanner_OnAddonCompartmentClick
 ## X-License: GPL-3.0-or-later
+## X-Curse-Project-ID: 1831556
 
 Data.lua
 Core.lua
